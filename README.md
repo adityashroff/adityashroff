@@ -8,16 +8,18 @@
 </p>
 
 ---
-
+<p align="center">
 ### **About Me**
+</p>
 - 🔭 I'm currently working on some really interesting personal projects.
 - 🌱 I'm always learning and improving my skills in modern web development trends and technologies.
 - 👯 I'm open to collaborating on open-source MERN stack projects and happy to talk more about web development.
 - 💬 Feel free to ask me anything related to the MERN stack. I'm happy to help and collaborate on different projects.
 
 ---
-
+<p align="center">
 ### **🛠️ My Tech Stack**
+</p>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,vscode,postman,redux,mui,tailwind,figma,xd" />
@@ -25,16 +27,18 @@
 </div>
 
 ---
-
+<p align="center">
 ### **🚀 Advanced Skills & Tools**
+</p>
 - **Frontend:** React Hooks, Context API, Redux Toolkit, React Router DOM, Axios, Material-UI, Tailwind CSS.
 - **Backend:** Mongoose, JWT, Passport.js, WebSockets (Socket.IO), RESTful APIs, Express Middleware.
 - **Databases:** MongoDB Aggregation Pipeline, Mongoose ODM.
 - **DevOps/Tools:** Git, Postman, Jest, CI/CD, Heroku, Vercel, Docker.
 
 ---
-
+<p align="center">
 ### **🎨 UI/UX & Design**
+</p>
 <p>As a developer with a passion for design, I focus on creating interfaces that are not only beautiful but also intuitive and accessible.</p>
 <ul>
   <li>**Design Tools:** Figma, Adobe XD</li>
@@ -43,8 +47,9 @@
 </ul>
 
 ---
-
+<p align="center">
 ### **📊 My GitHub Stats**
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=dark&include_all_commits=true" alt="Your GitHub Stats" />
   <br>

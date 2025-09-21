@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hello, I'm Aditya</b> 👋</h1>
+<h1 align="center">**Hello, I'm Aditya** 👋</h1>
 <p align="center">
   I'm an intermediate MERN Stack Engineer specializing in building robust, scalable web applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
 </p>
@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://miro.medium.com/v2/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Developer Image" width="400">
 </p>
+
+---
 
 <div align="center">
   ### **About Me**
@@ -44,9 +46,9 @@
 
 <p>As a developer with a passion for design, I focus on creating interfaces that are not only beautiful but also intuitive and accessible.</p>
 <ul>
-  <li><b>Design Tools:</b> Figma, Adobe XD</li>
-  <li><b>Core Concepts:</b> User-Centered Design, Wireframing, Prototyping, Responsive Design, Accessibility (A11Y)</li>
-  <li><b>Libraries:</b> Material-UI, Tailwind CSS, Chakra UI</li>
+  <li>**Design Tools:** Figma, Adobe XD</li>
+  <li>**Core Concepts:** User-Centered Design, Wireframing, Prototyping, Responsive Design, Accessibility (A11Y)</li>
+  <li>**Libraries:** Material-UI, Tailwind CSS, Chakra UI</li>
 </ul>
 
 ---

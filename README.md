@@ -1,4 +1,4 @@
-<h1 align="center">**Hello, I'm Aditya** 👋</h1>
+# **Hello, I'm Aditya** 👋
 <p align="center">
   I'm an intermediate MERN Stack Engineer specializing in building robust, scalable web applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
 </p>
@@ -9,10 +9,7 @@
 
 ---
 
-<div align="center">
-  ### **About Me**
-</div>
-
+### **About Me**
 - 🔭 I'm currently working on some really interesting personal projects.
 - 🌱 I'm always learning and improving my skills in modern web development trends and technologies.
 - 👯 I'm open to collaborating on open-source MERN stack projects and happy to talk more about web development.
@@ -20,8 +17,8 @@
 
 ---
 
+### **🛠️ My Tech Stack**
 <div align="center">
-  ### **🛠️ My Tech Stack**
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,vscode,postman,redux,mui,tailwind,figma,xd" />
   </a>
@@ -29,10 +26,7 @@
 
 ---
 
-<div align="center">
-  ### **🚀 Advanced Skills & Tools**
-</div>
-
+### **🚀 Advanced Skills & Tools**
 - **Frontend:** React Hooks, Context API, Redux Toolkit, React Router DOM, Axios, Material-UI, Tailwind CSS.
 - **Backend:** Mongoose, JWT, Passport.js, WebSockets (Socket.IO), RESTful APIs, Express Middleware.
 - **Databases:** MongoDB Aggregation Pipeline, Mongoose ODM.
@@ -40,10 +34,7 @@
 
 ---
 
-<div align="center">
-  ### **🎨 UI/UX & Design**
-</div>
-
+### **🎨 UI/UX & Design**
 <p>As a developer with a passion for design, I focus on creating interfaces that are not only beautiful but also intuitive and accessible.</p>
 <ul>
   <li>**Design Tools:** Figma, Adobe XD</li>
@@ -53,10 +44,7 @@
 
 ---
 
-<div align="center">
-  ### **📊 My GitHub Stats**
-</div>
-
+### **📊 My GitHub Stats**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=dark&include_all_commits=true" alt="Your GitHub Stats" />
   <br>
@@ -67,8 +55,8 @@
 
 ---
 
+### **🤝 Connect with me**
 <div align="center">
-  ### **🤝 Connect with me**
   <a href="https://www.linkedin.com/in/adityashroff19/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

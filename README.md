@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI3YjZvd2h5ZnZrbDZ2NXVreTMyaGYyOG5uaDYyNmlyank5ZWFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif" alt="Coding GIF" width="400" />
-
-</div>
 <h1 align="center">Hello, I'm Aditya 👋</h1>
 <p align="center">
  I'm a intermediate MERN Stack Engineer specializing in building robust, scalable web applications. Passionate about creating seamless user experiences and writing clean, efficient code.
@@ -14,8 +10,11 @@
 ### About Me
 
 🔭 I'm currently working on  some really interesting perosnal projects.
+
 🌱 I'm always learning and improving my skills in modern web development trends and technologies.
+
 👯 I'm open to collaborating on open-source MERN stack projects and happy to talk more about the stuff related to web dev.
+
 💬 Ask me about anything related to MERN stack, I am happy to help and collaborate on different projects.
 
 ### 🛠️ My Tech Stack
@@ -42,10 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[www.github.com/adityashroff]&show_icons=true&theme=default&include_all_commits=true" alt="Your GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=default" alt="Top Languages" />
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=default)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=default)](https://github.com/adityashroff)
 
 ### 🤝 Connect with me
 

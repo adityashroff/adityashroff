@@ -1,4 +1,6 @@
+<div align="center">
 # **Hello, I'm Aditya** 👋
+</div>
 <p align="center">
   I'm an intermediate MERN Stack Engineer specializing in building robust, scalable web applications. I'm passionate about creating seamless user experiences and writing clean, efficient code.
 </p>

@@ -25,6 +25,8 @@
   </a>
 </div>
 
+<div align="center">
+
 ### 🚀 Advanced Skills & Tools
 
 -   **Frontend:** React Hooks, Context API, Redux Toolkit, React Router DOM, Axios, Material-UI, Tailwind CSS.
@@ -33,8 +35,7 @@
 -   **DevOps/Tools:** Git, Postman, Jest, CI/CD, Heroku, Vercel, Docker.
 
 -   ### 🎨 UI/UX & Design
-
-<div align="left">
+-   
   <p>As a developer with a passion for design, I focus on creating interfaces that are not only beautiful but also intuitive and accessible.</p>
   <ul>
     <li><b>Design Tools:</b> Figma, Adobe XD</li>
@@ -54,10 +55,10 @@
  <br>
 </div>
 
-
+<p align="center">
 ### 🤝 Connect with me
 
-<p align="center">
+
   <a href="[https://www.linkedin.com/in/adityashroff19/]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

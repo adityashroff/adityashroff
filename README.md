@@ -32,14 +32,10 @@
 -   **Databases:** MongoDB Aggregation Pipeline, Mongoose ODM.
 -   **DevOps/Tools:** Git, Postman, Jest, CI/CD, Heroku, Vercel, Docker.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[www.github.com/adityashroff]&show_icons=true&theme=default&include_all_commits=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=default&include_all_commits=true" alt="Your GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=default" alt="Top Languages" />
 
 ### 🤝 Connect with me

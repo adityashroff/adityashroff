@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,vscode,postman,redux,mui,tailwind,jest,ts,nextjs,figma,aws,docker,vercel" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,vscode,postman,redux,mui,tailwind,figma,xd" />
   </a>
 </div>
 
@@ -32,11 +32,24 @@
 -   **Databases:** MongoDB Aggregation Pipeline, Mongoose ODM.
 -   **DevOps/Tools:** Git, Postman, Jest, CI/CD, Heroku, Vercel, Docker.
 
+-   ### 🎨 UI/UX & Design
+
+<div align="left">
+  <p>As a developer with a passion for design, I focus on creating interfaces that are not only beautiful but also intuitive and accessible.</p>
+  <ul>
+    <li><b>Design Tools:</b> Figma, Adobe XD</li>
+    <li><b>Core Concepts:</b> User-Centered Design, Wireframing, Prototyping, Responsive Design, Accessibility (A11Y)</li>
+    <li><b>Libraries:</b> Material-UI, Tailwind CSS, Chakra UI</li>
+  </ul>
+</div>
+
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=default&include_all_commits=true" alt="Your GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=dark&include_all_commits=true" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=dark" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashroff&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityashroff&theme=default&hide_borders=true" alt="WakaTime Stats" />
+</div>
 
 ### 🤝 Connect with me
 
@@ -47,4 +60,4 @@
   <a href="mailto:[adityajs1909@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>****
+</p>

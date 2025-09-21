@@ -47,8 +47,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=dark&include_all_commits=true" alt="Your GitHub Stats" />
+ <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=dark" alt="Top Languages" /> 
+ <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashroff&theme=dark" alt="GitHub Streak" />
+ <br>
 </div>
 
 

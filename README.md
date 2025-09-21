@@ -28,14 +28,16 @@
 <div align="center">
 
 ### 🚀 Advanced Skills & Tools
-
+</div>
 -   **Frontend:** React Hooks, Context API, Redux Toolkit, React Router DOM, Axios, Material-UI, Tailwind CSS.
 -   **Backend:** Mongoose, JWT, Passport.js, WebSockets (Socket.IO), RESTful APIs, Express Middleware.
 -   **Databases:** MongoDB Aggregation Pipeline, Mongoose ODM.
 -   **DevOps/Tools:** Git, Postman, Jest, CI/CD, Heroku, Vercel, Docker.
 
+<div align="center">
 -   ### 🎨 UI/UX & Design
--   
+</div>
+
   <p>As a developer with a passion for design, I focus on creating interfaces that are not only beautiful but also intuitive and accessible.</p>
   <ul>
     <li><b>Design Tools:</b> Figma, Adobe XD</li>
@@ -43,8 +45,9 @@
     <li><b>Libraries:</b> Material-UI, Tailwind CSS, Chakra UI</li>
   </ul>
 </div>
-
+<div align="center">
 ### My GitHub Stats
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=dark&include_all_commits=true" alt="Your GitHub Stats" />

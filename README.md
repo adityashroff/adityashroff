@@ -40,9 +40,8 @@
 ### My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[adityashroff]&show_icons=true&theme=default&include_all_commits=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[adityashroff]&layout=compact&theme=default" alt="Top Languages" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=[www.github.com/adityashroff]&show_icons=true&theme=default&include_all_commits=true" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashroff&layout=compact&theme=default" alt="Top Languages" />
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityashroff&show_icons=true&theme=default)
 
